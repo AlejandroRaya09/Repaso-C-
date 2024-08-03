@@ -1,0 +1,15 @@
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net6.0\MiPrimerProyecto.exe
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net6.0\MiPrimerProyecto.deps.json
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net6.0\MiPrimerProyecto.runtimeconfig.json
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net6.0\MiPrimerProyecto.dll
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net6.0\MiPrimerProyecto.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.dll
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\refint\MiPrimerProyecto.dll
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.pdb
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\Aleja\OneDrive\Escritorio\Codigos\C++\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net6.0\ref\MiPrimerProyecto.dll
